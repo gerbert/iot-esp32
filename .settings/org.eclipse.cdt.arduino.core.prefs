@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=[{"package"\:"esp32","platform"\:"esp32","library"\:"Ticker"},{"package"\:"esp32","platform"\:"esp32","library"\:"Wire"},"Adafruit GFX Library","Adafruit SSD1306",{"package"\:"esp32","platform"\:"esp32","library"\:"WiFi"},{"package"\:"esp32","platform"\:"esp32","library"\:"SPI"}]
